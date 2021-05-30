@@ -49,8 +49,8 @@
     "contents"
   ],
   "dependencies": {
-    "cpy": "^4.0.0",
-    "meow": "^3.6.0"
+    "cpy": "^5.0.0",
+    "meow": "^6.0.0"
   },
   "devDependencies": {
     "ava": "*",
